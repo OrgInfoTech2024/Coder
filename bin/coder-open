@@ -1,0 +1,1 @@
+cd /usr/share/Coder && /usr/share/Coder/coder-openfile "$1"
