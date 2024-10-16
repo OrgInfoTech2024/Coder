@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=
+Exec=cd /usr/share/Coder && python3 main.py %f
+Icon=/usr/share/Coder/icon.png
+Name=Coder
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
